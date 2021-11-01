@@ -1,0 +1,47 @@
+
+title: "*refugee migration around the world*”   
+ author: "noobs"    
+ date: “31/10/2021"   
+output: html_document
+    
+---
+# Refugee Migration Around The World
+
+## ‘noobs’ Team Members:
+
+- Selin Durmuş
+- Yunus Emre Özkaya
+
+## data description
+
+The data we have contains, international migrant stock at mid-year by sex and by region, country or area of origin and female migrants as a percentage of the international migrant stock by region, country or area of origin between 1990-2020. This is the data we will base on as a basis, but we plan to benefit from many data including the impact of immigrants on the economy, the areas they work in the countries they live in, and their political preferences. (all the topics we want to research will be mentioned below).    
+
+-education in immigrants       
+-the effects of immigrants on the economy   
+-political choices of immigrants in their country of residence    
+-age and gender distribution in immigrants    
+-migrant population and reasons for migration by country   
+
+
+
+## access to data:
+
+[data source](https://www.un.org/development/desa/pd/content/international-migrant-stock)
+
+## aim: 
+Visualizing and observing in the \textsl{refugee migration around the world} We aim to create awareness about the existence of the refugees, their affect to the countries they’ve migrated, how they got affected by migrating etc. by showing our data in graphs, charts etc.
+
+
+
+
+
+
+## motivation:   
+As young turkish citizens we are quite familiar with the news about refugees and immigration. Eitherway, we wanted to search this situation a bit more deeper such as sociological, economic effects of migration policy and learn more about it. In this way, there is a chance we can understand the situation better and find effective solutions for it.
+
+
+## Contributions of Each Team Members
+
+- We had weekly meetings on Discord and on school
+- All work has done together.
+- Each member contributed 50%
